@@ -3,8 +3,6 @@
 Welcome to my portfolio! Below are some of the projects I've worked on.
 
 ## Mobile Projects
-
-
 ### R2yak
 - **Description:** Mobile App r2yak to conduct market research using survey.
   
@@ -29,7 +27,7 @@ Welcome to my portfolio! Below are some of the projects I've worked on.
 ### Afro Employee Activity
 - **Description:** Employee Activity Tracker App To track Employees' work status.
 
-  ![Screenshot_٢٠٢٣١٢١٢-٠٥٤٨٥٥](https://github.com/user-attachments/assets/dd2c24ad-d3f9-4d3e-b73e-f8f480fe8b19)
+![Screenshot_٢٠٢٣١٢١٢-٠٥٤٨٥٥](https://github.com/user-attachments/assets/434619e3-7457-4858-9008-30b4b183e590)
 
 - **preview More images:** [Link](https://drive.google.com/drive/u/0/folders/1OR1m-bhzVRlzjX8ojFV_XARJdlsJi9-i)
 
@@ -55,12 +53,11 @@ https://github.com/user-attachments/assets/614fed2b-a572-466a-80a1-ec3412e5574a
 
 
 ---
-
 ### telemed
 - **Description:** A telemedicine platform for remote healthcare services.
 - **Tootls and Technologies:** -flutter 3.10  -Provider State Management   -Firebase Realtime Database   -http For requests -Nodejs
 
-<video src="https://user-images.githubusercontent.com/47029136/158885302-65133426-0ee8-4d9f-ad39-b8f2fb5ff6ef.mp4" width=260/>
+<video src="https://user-images.githubusercontent.com/47029136/158885302-65133426-0ee8-4d9f-ad39-b8f2fb5ff6ef.mp4" width="260"/>
 
 ---
 
