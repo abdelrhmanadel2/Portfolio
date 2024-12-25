@@ -114,4 +114,4 @@ https://github.com/user-attachments/assets/59d0f3df-0d7e-4910-97bf-8303e0764f09
 
 Feel free to reach out if you have any questions or would like to collaborate!
 
-[Your Email](mailto:Abdelrhmanadel2011@gmail.com)
+[Email: Abdelrhmanadel2011@gmail.com](mailto:Abdelrhmanadel2011@gmail.com)
