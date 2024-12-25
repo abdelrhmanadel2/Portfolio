@@ -5,8 +5,8 @@ Welcome to my portfolio! Below are some of the projects I've worked on.
 ## Mobile Projects
 ### R2yak
 - **Description:** Mobile App r2yak to conduct market research using survey.
-  
-![1 splash screen (2)-0000](https://github.com/user-attachments/assets/d4b4dc5d-0073-4b04-a163-1bbfab42b2b8)
+ 
+ ![1 splash screen (2)-0000](https://github.com/user-attachments/assets/b520a507-9a4b-4a5c-b1db-78a82e73edd4)
 
 - **Download:** will be available soon on stores
 
@@ -57,10 +57,9 @@ https://github.com/user-attachments/assets/614fed2b-a572-466a-80a1-ec3412e5574a
 - **Description:** A telemedicine platform for remote healthcare services.
 - **Tootls and Technologies:** -flutter 3.10  -Provider State Management   -Firebase Realtime Database   -http For requests -Nodejs
 
-<video src="https://user-images.githubusercontent.com/47029136/158885302-65133426-0ee8-4d9f-ad39-b8f2fb5ff6ef.mp4" width="260"/>
+<video src="https://user-images.githubusercontent.com/47029136/158885302-65133426-0ee8-4d9f-ad39-b8f2fb5ff6ef.mp4" width="260"/></video>
 
 ---
-
 ### ecommerce
 - **Description:** An e-commerce platform showcasing products and shopping features.
 - **Tootls and Technologies:** -flutter 3.10  -GetX State Management   -MongoDb Atlas& Realm WebHooks   -Dio For requests
