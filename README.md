@@ -12,6 +12,15 @@ Welcome to my portfolio! Below are some of the projects I've worked on.
 
 ---
 
+
+### Fushati-app
+- **Description:** POS APP Help Schools to Manage Student Purchases from  School canteen.
+- **Work Done** Add palm Recognition Capibiltes to POS Flutter Aplication by Communicating With Native Android Code.
+- **Tootls and Technologies:** - Flutter  - Provider State Management   - Methode Channel 
+
+![Home-7](https://github.com/user-attachments/assets/7736ec69-6c17-4aed-ac2c-09d20575a268) 
+
+---
 ### homemade
 - **Description:** A project targeting the food delivery sector in KSA.
 - **Tootls and Technologies:** - Flutter   - GetX State Management   - FireBase Push Notifications   - Dio For requests - MVC Design Pattern
@@ -41,18 +50,16 @@ https://github.com/user-attachments/assets/614fed2b-a572-466a-80a1-ec3412e5574a
 
 - **preview More images:** [Link](https://drive.google.com/drive/u/0/folders/1c2tKAMMSkVph_SaeGDz3zr_IaEsdoScG)
 
+---
+### Gps control app
+- **Description:** An app for GPS tracking and management.
+  
+<img src="https://github.com/user-attachments/assets/2a89d1d0-03ba-466b-8bdc-a53718dd3a4d" width="300" height="450">
+
+
 
 ---
 
-### Fushati-app
-- **Description:** POS APP Help Schools to Manage Student Purchases from  School canteen.
-- **Work Done** Add palm Recognition Capibiltes to POS Flutter Aplication by Communicating With Native Android Code.
-- **Tootls and Technologies:** - Flutter  - Provider State Management   - Methode Channel 
-
-![Home-7](https://github.com/user-attachments/assets/7736ec69-6c17-4aed-ac2c-09d20575a268) 
-
-
----
 ### telemed
 - **Description:** A telemedicine platform for remote healthcare services.
 - **Tootls and Technologies:** -flutter 3.10  -Provider State Management   -Firebase Realtime Database   -http For requests -Nodejs
@@ -70,14 +77,7 @@ https://github.com/user-attachments/assets/614fed2b-a572-466a-80a1-ec3412e5574a
 
 ---
 
-### Gps control app
-- **Description:** An app for GPS tracking and management.
-  
-<img src="https://github.com/user-attachments/assets/2a89d1d0-03ba-466b-8bdc-a53718dd3a4d" width="300" height="450">
 
-
-
----
 
 ## Web Projects
 
